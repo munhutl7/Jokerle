@@ -71,111 +71,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-23-golf-channel/KenhCoBan.m3u8
 #-*--THỂ THAO UHD-4K-*--#
-#EXTINF:-1 group-title="🔁|Làm mới danh sách trước thứ Bảy + Sử dụng VPN" tvg-logo="http://gg.gg/hrd222",Kênh 4K-UHD
-#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1299719&extension=ts&play_token=FPfKLl8zwY
-
-#--*.*--Thể thao trực tiếp 4K--*.*--#
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1300442&extension=ts&play_token=OrwX9CmOUD
-
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Sự kiện chính của Sky Sports
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1232965&extension=ts&play_token=3ms3VTPjIv
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Thể thao Hồng Kông ngay bây giờ
-http://optimustv.show:8080/play/live.php?mac=00:1A:79:08:4E:F7&stream=729232&extension=ts&play_token=y4iqCswnrQ
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=482000&extension=ts&play_token=7mGc6WEyw4
-
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Hub Premier 2 Sub
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=AhBmq6gKVN
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Astro Sports Sub
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=534095&extension=ts&play_token=eoEb0gQhG2
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Digi Sport 1
-http://kleineinzeige.com:8080/live/Alin_Mandy/EmmaAlin13/38531.m3u8
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Orange Sport
-http://kleineinzeige.com:8080/live/Alin_Mandy/EmmaAlin13/38647.m3u8
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sports Deutsch
-http://tanix-hnx.xyz:8080/live/Rene2/Rene2/237492.m3u8
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Bundesliga Deutsch
-http://tanix-hnx.xyz:8080/live/Rene2/Rene2/243261.m3u8
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sport F1
-http://best101.winnerdemon.net:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=B5CNJA4cvb
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp 4K" tvg-logo="http://gg.gg/logo4kkkk",Sky Sport F1 Sub
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:3f:91:08&stream=548023&extension=ts&play_token=74HOKBFFl8
-
-
-
-#--*.*--Thể thao trực tiếp 2K--*.*--#
-
-#EXTINF:-1 group-title="⚽|Live Sports 2K" group-logo="http://gg.gg/live2kkkk" tvg-logo="http://gg.gg/logo2kkkk",Sky Bundesliga
-http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:91:3c:17&stream=434505&extension=ts&play_token=Iq9ekzxoc4
-
-#EXTINF:-1 group-title="⚽|Live Sports 2K" group-logo="http://gg.gg/live2kkkk" tvg-logo="http://gg.gg/logo2kkkk",Sky Sports DE
-http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:91:3c:17&stream=237492&extension=ts&play_token=7jtRZm2rwR
-
-#EXTINF:-1 group-title="⚽|Live Sports 2K" group-logo="http://gg.gg/live2kkkk" tvg-logo="http://gg.gg/logo2kkkk",Sky Sport F1
-http://airmaxxtv.com:8080/play/live.php?mac=00:1A:79:91:3c:17&stream=133540&extension=ts&play_token=mIz9aNXbMr
-
-
-
-#--*.*--Thể thao trực tiếp FHD--*.*--#
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" group-logo="http://gg.gg/livefhdkkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
 
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 2
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71580&extension=ts&play_token=z62h2YhMGz
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 3
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71579&extension=ts&play_token=w7FmKDstqr
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 4
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71578&extension=ts&play_token=lBNlOTjb8B
 
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sự kiện chính của Sky Sports
-http://gunslingertv.org:8080/live/todoYTTVUS6520ol/bUk3cH73cR/47194.m3u8
-#http://live.watsits.art:80/play/live.php?mac=00:1A:79:52:FB:A4&stream=71563&extension=ts&play_token=9eFp2E0A7b
 
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport F1
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=344338&extension=ts&play_token=bxZflMN3S4
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport News
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71564&extension=ts&play_token=0BTt1GLKHE
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Premier
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71550&extension=ts&play_token=Bb3jfaFB59
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Football
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71560&extension=ts&play_token=0JJHMMbnPM
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Mix
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71557&extension=ts&play_token=f9ZMz3KMNf
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Golf
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=348673&extension=ts&play_token=oiutmUmcPk
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",USA Networks
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&extension=ts&play_token=tY9bkJmrsk
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",1
-
-
-#EXTINF:-1 group-title="⚽|Thể thao trực tiếp FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Hub Premier 1
-http://alcable.mastergold.co.uk:80/play/live.php?mac=00:1A:79:1E:4E:36&stream=491329&extension=ts&play_token=Kj1CDX93LT
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/p5csyn1620551587.png",Sky Sport F1
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/218103.ts
 #EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
